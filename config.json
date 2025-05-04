@@ -1,1 +1,5 @@
-
+{
+  "trigger_roles": [],
+  "roles_to_remove": [],
+  "check_interval": 5
+}
